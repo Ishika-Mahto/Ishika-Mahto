@@ -35,18 +35,19 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishika-Mahto&theme=tokyonight" />
 </p>
 
+
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/ishika-mahto-93bb7036a/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://instagram.com/">
+  <a href="https://www.instagram.com/_ishikamahto/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="ishikamahto9@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
